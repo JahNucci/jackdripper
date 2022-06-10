@@ -1,4 +1,4 @@
-## Welcome JahNucci's Secure Minting DAPP.
+## Welcome JahNucci's Secure Minting DAPP
 
 You can mint MFT's from the JackDripper series here. The app clearly displays wallet address, supply of JackDrippers and the status of the sale.
 
