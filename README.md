@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome JahNucci's Secure Minting DAPP.
 
-You can use the [editor on GitHub](https://github.com/JahNucci/jackdripper/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can mint MFT's from the JackDripper series here. The app clearly displays wallet address, supply of JackDrippers and the status of the sale.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This app collects no information, connects securely and will provide a good set of error descriptions if you happen to be connected improperly etc.
+
+This will only mint NFT's from the JackDripper collection found here:
+
+https://rinkeby.etherscan.io/address/0x677ebbE45f6a73eB1Fd4Ddb33FeDb7eae133a445
 
 ### Markdown
 
